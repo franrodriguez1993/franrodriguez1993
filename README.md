@@ -45,9 +45,6 @@
     <img src="./icons/mysql-plain.svg" alt="mysql" width="40" height="40"/> 
   </a>
   <a href="#" target="_blank"> 
-    <img src="./icons/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/> 
-  </a>
-  <a href="#" target="_blank"> 
     <img src="./icons/docker-plain.svg" alt="docker" width="40" height="40"/> 
   </a>  
   <a href="https://git-scm.com/" target="_blank"> 
