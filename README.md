@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Franco! <img height="40" src="https://cdn3.emoji.gg/emojis/9837-bunny.gif"></h1>
-<h3 align="center">Soy un Programador Backend Jr de Tucumán - Argentina</h3>
+<h3 align="center">Soy un Programador Backend de Tucumán - Argentina</h3>
 
-- 🔭 Actualmente me encuentro aprendiendo **.NET**
+- 🔭 Actualmente me encuentro profundizando en **NestJS**
 
 - 🌱 Tengo sólidos conocimientos en **NodeJS - Typescript**
 
