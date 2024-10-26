@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, Me llamo Franco! <img height="40" src="https://cdn3.emoji.gg/emojis/9837-bunny.gif"></h1>
 <h3 align="center">Soy un Programador Backend de Tucumán - Argentina</h3>
 
-- 🔭 Actualmente me encuentro profundizando en **NestJS**
+- 🖥️ Soy Líder Backend en [Nenes.io](https://nenes.io/es)
 
 - 🌱 Tengo sólidos conocimientos en **NodeJS - Typescript**
 
-- 👯 He participado de proyectos colaborativos bajo la modalidad SCRUM en **No Country & InstitutoWeb**
+- ⚡ Tengo experiencia desarrollando aplicaciones RAG con **LangchainJS**
 
-- ⚡ Tengo experiencia aplicando: **Clean Architecture - Design Patterns - Principios S.O.L.I.D.**
+- 🛡️ Actualmente me encuentro profundizando en **Ciberseguridad** 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -58,18 +58,15 @@
   </a>
     <a href="#" target="_blank"> 
     <img src="./icons/react-original.svg" alt="react" width="40" height="40"/> 
-  </a>  
+  </a> 
+
+
 </p>
 
 <br>
 <br>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=franrodriguez1993
-&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franrodriguez1993
-&theme=react&layout=compact" />
-</p>
+
 
 ---
 
