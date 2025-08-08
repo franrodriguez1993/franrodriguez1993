@@ -8,7 +8,7 @@
 - 🖥️ Soy **Líder Backend** en [Nenes.io](https://nenes.io/es)
 - 💡 Apasionado por crear **APIs robustas, seguras y escalables**
 - 🧠 Experiencia con **aplicaciones RAG**, flujos **multiagente**, y **MCP**
-- 🛠️ Stack principal: **Node.js**, **NestJS**, **MongoDB**, **TypeORM**, **AWS**, **Langchain**
+- 🛠️ Stack principal: **Node.js**, **NestJS**, **MongoDB**, **SQL**, **AWS**, **Langchain**
 - 🔐 Me interesa profundamente la **seguridad en APIs** y el diseño de sistemas resistentes.
 - 🍎 Trabajé varios años como profesional de la salud en el área de nutrición hasta que descubrí la programación.
 - 🎮 Fan de los videojuegos, la escritura y la música.
